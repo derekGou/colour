@@ -1,15 +1,6 @@
-img {
-    filter: hue-rotate(0deg);
-    animation: raymonsucks 4s infinite;
+.red{
+    color = rgb(255, 0, 0);
 }
-@keyframes raymonsucks {
-    0% {
-        filter: hue-rotate(10deg);
-    }
-    50% {
-        filter: hue-rotate(40deg);
-    }
-    100% {
-        filter: hue-rotate(70deg);
-    }
+.red1{
+    color = #f00;
 }
