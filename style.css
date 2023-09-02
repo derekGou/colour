@@ -4,12 +4,12 @@ img {
 }
 @keyframes raymonsucks {
     0% {
-        filter: hue-rotate(-90deg);
+        filter: hue-rotate(10deg);
     }
     50% {
-        filter: hue-rotate(90deg);
+        filter: hue-rotate(40deg);
     }
     100% {
-        filter: hue-rotate(-90deg);
+        filter: hue-rotate(70deg);
     }
 }
