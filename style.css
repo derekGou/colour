@@ -1,9 +1,9 @@
 .red{
-    color = rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
     height: 200px;
 }
 .red1{
-    color = #f00;
+    color: #f00;
     height 200px;
     top: 200px;
 }
