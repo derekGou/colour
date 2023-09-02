@@ -1,15 +1,15 @@
 img {
     filter: hue-rotate(0deg);
-    animation: raymonsucks 1s infinite;
+    animation: raymonsucks 4s infinite;
 }
 @keyframes raymonsucks {
     0% {
-        filter: hue-rotate(-30deg);
+        filter: hue-rotate(-90deg);
     }
     50% {
-        filter: hue-rotate(30deg);
+        filter: hue-rotate(90deg);
     }
     100% {
-        filter: hue-rotate(-30deg);
+        filter: hue-rotate(-90deg);
     }
 }
